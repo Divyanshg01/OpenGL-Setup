@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Opengl Setup\\My Setup\\Setup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AABB813A-9CB0-49C4-A0F6-2A4F408F62EB}|Setup.vcxproj|D:\\Opengl Setup\\My Setup\\Setup\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AABB813A-9CB0-49C4-A0F6-2A4F408F62EB}|Setup.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Opengl Setup\\My Setup\\Setup\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Opengl Setup\\My Setup\\Setup\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-18T06:11:09.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
